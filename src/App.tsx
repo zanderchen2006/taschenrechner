@@ -93,7 +93,7 @@ function App() {
                 <button className="operator" onClick={() => handleOperator('=')}>=</button>
             </div>
             <div id="about">
-                <p>created by Tim @ 10m</p>
+                <p>created by Tim</p>
             </div>
 
         </div>
